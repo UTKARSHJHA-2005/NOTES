@@ -37,10 +37,14 @@ dependencies:
   sqflite: ^2.4.2
   intl: ^0.20.2
   path: ^1.9.1
+  http: ^1.6.0
 
 dev_dependencies:
   flutter_launcher_icons: ^0.14.1
   flutter_native_splash: ^2.4.0
+  permission_handler: ^12.0.1
+  fluttertoast: ^9.0.0
+  flutter_launcher_name: ^0.0.1
 
   flutter_test:
     sdk: flutter
@@ -101,3 +105,5 @@ flutter_native_splash:
   image: "assests/images/Untitled.png"
   android: true
   ios: true
+flutter_launcher_name:
+  name: "CREOTE"
